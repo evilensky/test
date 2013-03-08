@@ -1,4 +1,4 @@
 class What
   # To change this template use File | Settings | File Templates.
-     puts "Hello worldz"
+     puts "Hello worldzzz"
 end
