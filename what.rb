@@ -1,4 +1,8 @@
 class What
-  # To change this template use File | Settings | File Templates.
-     puts "Hello worldzzz"
+  def hello=(string)
+    puts "#{string}"
+  end
 end
+
+putter = What.new
+putter.hello = "Hollow world"
